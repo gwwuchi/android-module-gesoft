@@ -17,7 +17,7 @@ compile 'com.squareup.retrofit2:converter-scalars:2.0.0'
 ```java
 GApp.getAppName( Context context );	//获取应用程序名称
 GApp.getVersionName( Context context );	//当前应用的版本名称
-GApp.isAppAlive(Context context, String packageName);判断应用是否已经启动
+GApp.isAppAlive(Context context, String packageName);//判断应用是否已经启动
 GData.putJSON( JSONObject j, String key, Object value );//保存json
 GData.putJSONArray( JSONArray array, int index, Object obj );//向JSONArray中添加json对象
 GData.URLEncoder( String str, String encode );//对字符串进行编码
