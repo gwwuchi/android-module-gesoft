@@ -1,6 +1,21 @@
 # android-module
 
-### gapp 常用方法+颜色+布局
+### 注意：
+由于gbmap和gphotopicker使用了自定义的application，主APP中若同时依赖这两个module则必须使用自实现的**application**，然后添加属性**tools:replace="android:name"**，例如：
+```
+<application
+        android:name=".BaseApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:replace="android:name"
+        >
+...
+```
+
+### 一、gapp 常用方法+颜色+布局
 gapp中包括如下依赖
 ```
 compile 'com.android.support:design:23.4.0'
@@ -78,7 +93,7 @@ GImage.addWaterMarker( Bitmap bitmap, String text, int textSize, float x, float 
 ```
 
 
-### gpush 信鸽推送
+### 二、gpush 信鸽推送
 1、初始化推送
 ```
 GPushXG.setApplication(mContext);
@@ -94,7 +109,7 @@ GPushXG.registerPush(getApplicationContext(), new GPushXG.Reg() {
 ```
 3、在`MessageReceiver`中写自己的逻辑代码
 
-### gphotoview 图片浏览
+### 三、gphotoview 图片浏览
 ```
 //第一种方式
 GPhotoView.startImagePagerActivity(Context context, List<String> imgUrls, int position, int width, int height);
@@ -102,7 +117,7 @@ GPhotoView.startImagePagerActivity(Context context, List<String> imgUrls, int po
 GPhotoView.startImagePagerActivity( View view, List<String> imgUrls, int position );
 ```
 
-### gbmap
+###四、 gbmap
 #### 定位功能采用百度定位
 1、在主`module`中添加
 ```handlebars
@@ -128,7 +143,7 @@ stopLocation();		//结束综合定位
 
 ```
 
-### gcrashemail
+### 五、gcrashemail
 #### 发送崩溃日志到邮箱
 1、账号密码以及smtp配置需要修改源码
 ```java
@@ -146,7 +161,7 @@ crashHandler.setGEMail(email);
 crashHandler.init(mContext);
 ```
 
-### gphotopicker
+### 六、gphotopicker
 #### 仿微信相册
 1、调用相册
 ```java
