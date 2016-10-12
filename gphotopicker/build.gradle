@@ -1,0 +1,47 @@
+apply plugin: 'com.android.library'
+apply plugin: 'maven'
+
+// JitPack
+apply plugin: 'com.github.dcendents.android-maven'
+group = 'com.github.yuezg'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion '23.0.3'
+
+    defaultConfig {
+        minSdkVersion 12
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    //compile 'com.android.support:support-v4:23.4.0'
+}
+
+uploadArchives {
+    repositories {
+        mavenDeployer {
+            repository(url: 'http://www.gytaobao.cn:9205/nexus/content/repositories/gapp/') {
+                authentication(userName: 'admin', password: 'admin123')
+            }
+
+            pom.project {
+                version '0.0.3'
+                artifactId 'gphotopicker'
+                groupId 'gesoft.android'
+                packaging 'aar'
+                description 'photo select'
+            }
+        }
+    }
+}

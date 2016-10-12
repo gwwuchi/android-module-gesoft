@@ -1,0 +1,6 @@
+include ':app', ':gphotopicker', ':gvideo', ':gcrashemail', ':gshare'
+include ':gphotoview'
+include ':gbmap'
+include ':ghotfix' /*':gupd',*/
+include ':gapp'
+include ':gpush'

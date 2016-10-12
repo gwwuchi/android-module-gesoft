@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gphotopicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\anim_entry_from_bottom.xml",
+        "source": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gphotopicker\\build\\intermediates\\bundles\\debug\\res\\anim\\anim_entry_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gphotopicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\anim_leave_from_bottom.xml",
+        "source": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gphotopicker\\build\\intermediates\\bundles\\debug\\res\\anim\\anim_leave_from_bottom.xml"
+    }
+]

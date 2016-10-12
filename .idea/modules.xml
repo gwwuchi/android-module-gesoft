@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GAndroid.iml" filepath="$PROJECT_DIR$/GAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gapp/gapp.iml" filepath="$PROJECT_DIR$/gapp/gapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gbmap/gbmap.iml" filepath="$PROJECT_DIR$/gbmap/gbmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gcrashemail/gcrashemail.iml" filepath="$PROJECT_DIR$/gcrashemail/gcrashemail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ghotfix/ghotfix.iml" filepath="$PROJECT_DIR$/ghotfix/ghotfix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gphotopicker/gphotopicker.iml" filepath="$PROJECT_DIR$/gphotopicker/gphotopicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gphotoview/gphotoview.iml" filepath="$PROJECT_DIR$/gphotoview/gphotoview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpush/gpush.iml" filepath="$PROJECT_DIR$/gpush/gpush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gshare/gshare.iml" filepath="$PROJECT_DIR$/gshare/gshare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gvideo/gvideo.iml" filepath="$PROJECT_DIR$/gvideo/gvideo.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gbmap\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gbmap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 42,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 108,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gbmap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 108,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 74,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gbmap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 207,
+                        "endColumn": 74,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endColumn": 106,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gbmap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 106,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 59,
+                    "endOffset": 444
+                },
+                "from": {
+                    "file": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gbmap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 59,
+                        "endOffset": 444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 449,
+                    "endColumn": 62,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gbmap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 449,
+                        "endColumn": 62,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 62,
+                    "endOffset": 570
+                },
+                "from": {
+                    "file": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gbmap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 512,
+                        "endColumn": 62,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 575,
+                    "endColumn": 69,
+                    "endOffset": 640
+                },
+                "from": {
+                    "file": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gbmap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 575,
+                        "endColumn": 69,
+                        "endOffset": 640
+                    }
+                }
+            }
+        ]
+    }
+]

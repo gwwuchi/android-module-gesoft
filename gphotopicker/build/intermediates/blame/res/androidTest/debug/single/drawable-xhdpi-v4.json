@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gphotopicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\text_indicator_normal.png",
+        "source": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gphotopicker\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\text_indicator_normal.png"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gphotopicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_photo_loading.png",
+        "source": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gphotopicker\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_photo_loading.png"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gphotopicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\btn_back.png",
+        "source": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gphotopicker\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\btn_back.png"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gphotopicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_dir.png",
+        "source": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gphotopicker\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_dir.png"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gphotopicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\text_indicator_pressed.png",
+        "source": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gphotopicker\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\text_indicator_pressed.png"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gphotopicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_dir_choose.png",
+        "source": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gphotopicker\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_dir_choose.png"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gphotopicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_camera.png",
+        "source": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gphotopicker\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_camera.png"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gphotopicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\btn_selected.png",
+        "source": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gphotopicker\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\btn_selected.png"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gphotopicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\btn_unselected.png",
+        "source": "D:\\Program Files\\Android\\workspaces\\GAndroid\\gphotopicker\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\btn_unselected.png"
+    }
+]

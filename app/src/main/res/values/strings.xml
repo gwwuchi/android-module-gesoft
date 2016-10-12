@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">GAndroid</string>
+    <string name="btn_baseui" formatted="false">Android UI</string>
+    <string name="btn_download">service下载</string>
+    <string name="btn_photopicker">相册</string>
+    <string name="btn_asyncTask">async_task</string>
+    <string name="btn_retrofit">Retrofit</string>
+    <string name="btn_photoview">图片浏览</string>
+    <string name="btn_loadimg">超大图加载</string>
+    <string name="btn_bd_location">百度定位</string>
+    <string name="btn_checkupd">检测更新</string>
+    <string name="btn_hotfix">热修复</string>
+    <string name="btn_RecyclerView" formatted="false">RecyclerView</string>
+    <string name="btn_phonenumber" formatted="false">获取手机号码</string>
+    <string name="btn_phonescreen" formatted="false">获取手机屏幕</string>
+    <string name="btn_count" formatted="false">倒计时</string>
+    <string name="btn_webview" formatted="false">Webview</string>
+    <string name="btn_email" formatted="false">send Email</string>
+    <string name="btn_customview" formatted="false">自定义控件</string>
+    <string name="btn_share" formatted="false">分享</string>
+    <string name="btn_sqlite" formatted="false">SQLite数据库</string>
+
+
+    <string name="activity_label_fresco">fresco使用</string>
+
+    <string name="btn_bd_bdlocation">定位</string>
+    <string name="btn_bd_start">开始定位...</string>
+    <string name="btn_bd_stop">结束定位</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="action_settings">重复</string>
+
+    <string name="act_RecyclerViewActivity">RecyclerView</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
